@@ -1,4 +1,4 @@
-# Svelte + Flask
+# Svelte5 + Flask
 
 A super simple example of using Flask to serve a Svelte app and use it as a backend server.
 This example simply queries and displays data from a database table on the Flask server.
